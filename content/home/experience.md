@@ -27,7 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  
+  * Proposed a Continuous Spatial-Temporal Meta-Learning algorithm (cST-ML) which employed variational inference and deep neural networks to better capture the temporal uncertainties of time series data.
+  * Proposed a novel generative adversarial networks equipped with dynamic convolutional layer and selfattention mechanism to solve the spatial-temporal estimation problem.
+  * Designed a novel generative adversarial networks to better capture the spatial patterns of spatial-temporal data.
   """
 
 [[experience]]
@@ -38,14 +40,5 @@ date_format = "Jan 2006"
   date_start = "2018-08"
   date_end = ""
   description = """Assisted other research members in solving research issues related to deep learning and large-scale data analytics."""
-
-[[experience]]
-  title = "Teaching Assistant"
-  company = "Stevens Institute of Technology"
-  company_url = ""
-  location = "Hoboken, NJ"
-  date_start = "2017-08"
-  date_end = "2018-05"
-  description = """Assisted in teaching graduate courses including Data Mining and Database Management."""
 
 +++
