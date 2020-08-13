@@ -41,4 +41,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Assisted other research members in solving research issues related to deep learning and large-scale data analytics."""
 
+[[experience]]
+  title = "Teaching Assistantr"
+  company = "Stevens Institute of Technology"
+  company_url = ""
+  location = "Hoboken, NJ"
+  date_start = "2017-08-19"
+  date_end = "2018-05-05"
+  description = """Assisted in teaching graduate courses including Data Mining and Database Management."""
+
 +++
