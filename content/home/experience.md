@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Worcester Polytechnic Institute, Laboratory of Prof.Yanhua Li"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Worcester, MA"
+  date_start = "2018-08"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Proposed a Continuous Spatial-Temporal Meta-Learning algorithm (cST-ML) which employed variational inference and deep neural networks to better capture the temporal uncertainties of time series data.
+  * Proposed a novel generative adversarial networks equipped with dynamic convolutional layer and selfattention mechanism to solve the spatial-temporal estimation problem.
+  * Designed a novel generative adversarial networks to better capture the spatial patterns of spatial-temporal data.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Member"
+  company = "Worcester Polytechnic Institute, Data Science Research Group (DSRG)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Worcester, MA"
+  date_start = "2018-08"
+  date_end = ""
+  description = """Assisted other research members in solving research issues related to deep learning and large-scale data analytics."""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Stevens Institute of Technology"
+  company_url = ""
+  location = "Hoboken, NJ"
+  date_start = "2017-08"
+  date_end = "2018-05"
+  description = """Assisted in teaching graduate courses including Data Mining and Database Management."""
 
 +++
