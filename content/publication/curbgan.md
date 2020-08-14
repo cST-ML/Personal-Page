@@ -1,6 +1,6 @@
 +++
 title = "Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks"
-# date = "2020-06-03"
+date = "2020-06-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
