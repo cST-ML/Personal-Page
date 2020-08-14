@@ -17,20 +17,44 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
+  name = "Python"
+ # description = "90%"
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
   name = "R"
-  description = "90%"
+ # description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "C/C++"
+ # description = "100%"  
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Java"
+ # description = "90%"
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Pytorch"
+ # description = "90%"
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Tensorflow"
+ # description = "90%"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "SQL"
+ # description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
