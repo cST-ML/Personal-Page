@@ -12,4 +12,8 @@ view: 4
 header:
   caption: "Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks"
   image: ""
+  
+header:
+  caption: "Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks"
+  image: ""
 ---
