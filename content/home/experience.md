@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """Assisted other research members in solving research issues related to deep learning and large-scale data analytics."""
 
 [[experience]]
-  title = "Teaching Assistantr"
+  title = "Teaching Assistant"
   company = "Stevens Institute of Technology"
   company_url = ""
   location = "Hoboken, NJ"
