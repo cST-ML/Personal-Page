@@ -4,7 +4,7 @@ date = "2020-06-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Yingxue Zhang**", "Yanhua Li", "Xun Zhou", "Jun Luo"]
+authors = ["Yingxue Zhang", "Yanhua Li", "Xun Zhou", "Jun Luo"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 # publication = "IEEE Access."
-#publication_short = "ISBI"
+# publication_short = "ISBI"
 
 # Abstract and optional shortened version.
 
@@ -68,6 +68,3 @@ highlight = true
 # caption = "My caption :smile:"
 
 +++
-# A data-driven method to reduce training sample size to mitigate careful model tuning required when using transfer learning for Alzheimer's disease classification.  
-
-# In *IEEE Access*, 2019. 
