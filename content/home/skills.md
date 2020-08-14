@@ -50,11 +50,6 @@ subtitle = ""
   name = "Tensorflow"
  # description = "90%"
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "SQL"
- # description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
