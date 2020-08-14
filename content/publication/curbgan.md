@@ -18,7 +18,7 @@ authors = ["Yingxue Zhang", "Yanhua Li", "Xun Zhou", "Xiangnan Kong", "Jun Luo"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-# publication = "In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’20)."
+publication = "In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’20)."
 # publication_short = "ISBI"
 
 # Abstract and optional shortened version.
