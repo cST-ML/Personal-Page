@@ -117,8 +117,8 @@ office_hours = []
 contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Lab page", link = "http://davis.wpi.edu:8180/DSRG/"},
-  {icon = "comments", icon_pack = "fas", name = "Github", link = "https://github.com/cST-ML"},
+  # {icon = "keybase", icon_pack = "fab", name = "Lab page", link = "http://davis.wpi.edu:8180/DSRG/"},
+  # {icon = "comments", icon_pack = "fas", name = "Github", link = "https://github.com/cST-ML"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
