@@ -51,7 +51,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/cST-ML
-- icon = linkedin
+- icon = fa-linkedin
   icon_pack = fab
   link = "https://www.linkedin.com/in/yingxue-zhang-72226a160/"
 
