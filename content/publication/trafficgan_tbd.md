@@ -4,7 +4,7 @@ date = "2020-08-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = [**"Yingxue Zhang"**, "Yanhua Li", "Xun Zhou", "Xiangnan Kong", "Jun Luo"]
+authors = ["**Yingxue Zhang**", "Yanhua Li", "Xun Zhou", "Xiangnan Kong", "Jun Luo"]
 
 # Publication type.
 # Legend:
@@ -39,7 +39,7 @@ featured = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-# url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = "files/trafficgan_tbd.pdf"
 url_preprint = ""
 # url_code = "https://github.com/cST-ML/Curb-GAN"
 url_dataset = ""
