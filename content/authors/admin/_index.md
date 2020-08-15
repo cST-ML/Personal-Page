@@ -49,20 +49,20 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/cST-ML
+- icon: github
+  icon_pack: fab
+  link: https://github.com/cST-ML
   
-# - icon: linkedin
-#  icon_pack: fab
-#  link: "https://www.linkedin.com/in/yingxue-zhang-72226a160/"
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/yingxue-zhang-72226a160/"
 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yzhang31@wpi.edu"
