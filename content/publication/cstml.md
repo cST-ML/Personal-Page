@@ -39,8 +39,8 @@ featured = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-# url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "files/cstml.pdf"
 url_code = "https://github.com/cST-ML/cST-ML"
 url_dataset = ""
 url_project = ""
