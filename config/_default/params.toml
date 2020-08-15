@@ -13,7 +13,10 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "default"
+theme = "minimal"
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+color_theme = "default"
 
 # Enable users to switch between day and night mode?
 day_night = false
