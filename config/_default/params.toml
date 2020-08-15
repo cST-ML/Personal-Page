@@ -103,7 +103,7 @@ address = {street = "110 Institute Rd", city = "Worcester", region = "MA", postc
 coordinates = {latitude = "42.275183", longitude = "-71.807028"}
 
 # Directions for visitors to locate you.
-directions = "Office AK123 in Atwater Kent Laboratories"
+# directions = "Office AK123 in Atwater Kent Laboratories"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -298,4 +298,6 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  fas = true
+  fab = true
