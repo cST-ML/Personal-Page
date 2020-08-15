@@ -18,7 +18,7 @@ authors = ["Yingxue Zhang", "Yanhua Li", "Xun Zhou", "Xiangnan Kong", "Jun Luo"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In IEEE Transactions on Big Data"
+publication = "2019 IEEE International Conference on Data Mining (ICDM)"
 # publication_short = "ISBI"
 
 # Abstract and optional shortened version.
