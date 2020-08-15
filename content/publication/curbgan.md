@@ -4,7 +4,7 @@ date = "2020-06-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Yingxue Zhang", "Yanhua Li", "Xun Zhou", "Xiangnan Kong", "Jun Luo"]
+authors = ["<span style="color:red;">Yingxue Zhang</span>", "Yanhua Li", "Xun Zhou", "Xiangnan Kong", "Jun Luo"]
 
 # Publication type.
 # Legend:
@@ -24,8 +24,6 @@ publication = "In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Dis
 # Abstract and optional shortened version.
 
 # abstract = "We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation. Compared to the commonly used Dice loss, our loss function achieves a better trade off between precision and recall when training on small structures such as lesions. To evaluate our loss function, we improve the attention U-Net model by incorporating an image pyramid to preserve contextual features. We experiment on the BUS 2017 dataset and ISIC 2018 dataset where lesions occupy 4.84% and 21.4% of the images area and improve segmentation accuracy when compared to the standard U-Net by 25.7% and 3.6%, respectively."
-
-# abstract = "We utilize transfer learning on the ADNI dataset, reduced in sample size by entropy selection to acheive state-of-the-art performance in multi-task classification. We provide a detailed analysis using class activation maps to demonstrate the model's performance on neuropathological regions that are task-relevant and can help healthcare practicioners in interpreting the model's decision."
 
 # Featured image thumbnail (optional)
 # image_preview = "static/img/ftl.png"
