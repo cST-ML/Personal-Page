@@ -39,7 +39,7 @@ featured = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-# url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = ""
 url_preprint = ""
 # url_code = "https://github.com/cST-ML/Curb-GAN"
 url_dataset = ""
