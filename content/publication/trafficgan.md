@@ -39,7 +39,7 @@ featured = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://github.com/cST-ML/Personal-Page/blob/master/content/publication/trafficgan.pdf"
+url_pdf = "trafficgan.pdf"
 url_preprint = ""
 # url_code = "https://github.com/cST-ML/Curb-GAN"
 url_dataset = ""
