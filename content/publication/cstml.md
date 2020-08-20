@@ -41,7 +41,7 @@ featured = true
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-# url_code = "https://github.com/cST-ML/cST-ML"
+url_code = "https://github.com/cST-ML/cST-ML"
 url_dataset = ""
 url_project = ""
 url_slides = ""
