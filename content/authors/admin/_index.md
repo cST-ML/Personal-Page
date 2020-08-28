@@ -51,7 +51,7 @@ social:
   
 - icon: github
   icon_pack: fab
-  link: https://github.com/cST-ML
+  link: https://github.com/yingxue-zhang
   
 - icon: linkedin
   icon_pack: fab
