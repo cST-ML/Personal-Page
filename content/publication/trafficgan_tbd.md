@@ -41,7 +41,7 @@ featured = true
 # Links (optional).
 url_pdf = "files/trafficgan_tbd.pdf"
 url_preprint = ""
-# url_code = "https://github.com/cST-ML/Curb-GAN"
+url_code = "https://github.com/yingxue-zhang/TrafficGAN"
 url_dataset = ""
 url_project = ""
 url_slides = ""
