@@ -26,7 +26,7 @@ interests:
 - Reinforcement Learning
 - Imitation Learning
 - Spatial-Temporal Data Mining
-- Big Data Analysis
+- Big Data Analytics
 
 education:
   courses:
