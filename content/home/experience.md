@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "Worcester, MA"
   date_start = "2020-08-30"
   date_end = ""
-  description = """CS542 Reinforcement Learining , DS595 Database Management Systems."""
+  description = """
+  CS542 Reinforcement Learining
+  DS595 Database Management Systems"""
 
 
 [[experience]]
