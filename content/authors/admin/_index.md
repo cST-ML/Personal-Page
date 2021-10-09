@@ -74,5 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Yingxue Zhang is a Ph.D. candidate in Data Science, with strong deep learning background and programming skills and the ability
-to work independently or as part of a research team. Broad research interests include: deep learning, imitation Learning, meta-learning, spatial-temporal data mining, reinforcement learning and big data analysis. She is a member of Data Science Research Group (DSRG) in WPI.
+Yingxue Zhang is a Ph.D. candidate in Data Science with strong machine learning and deep learning background. Broad research interests include: (1) designing novel data mining, machine learning and AI techniques to solve spatial-temporal big data analytics problems relatedto smart cities, public safety, sustainability and business, and (2) human behavior analysis in autonomous driving, financial market and decision making using meta-learning, reinforcement learning and imitation learning methods.
