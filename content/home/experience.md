@@ -29,14 +29,14 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Worcester Polytechnic Institute, Laboratory of Prof.Yanhua Li"
+  company = "Worcester Polytechnic Institute, Laboratory of Dr. Yanhua Li"
   company_url = ""
   location = "Worcester, MA"
   date_start = "2018-08-30"
   date_end = "2020-08-30"
   description = """
   # Responsibilities include:
-  
+ 
   # * Proposed a Continuous Spatial-Temporal Meta-Learning algorithm (cST-ML) which employed variational inference and deep neural networks to better capture the temporal uncertainties of time series data.
   # * Proposed a novel generative adversarial networks equipped with dynamic convolutional layer and selfattention mechanism to solve the spatial-temporal estimation problem.
   # * Designed a novel generative adversarial networks to better capture the spatial patterns of spatial-temporal data.
