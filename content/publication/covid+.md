@@ -1,5 +1,5 @@
 +++
-title = "COVID-GAN+: Estimating Human Mobility Responses to COVID-19 through Spatio-Temporal Generative Adversarial Networks with Enhanced Features."
+title = "COVID-GAN+: Estimating Human Mobility Responses to COVID-19 through Spatio-Temporal Generative Adversarial Networks with Enhanced Features"
 date = "2021-08-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
