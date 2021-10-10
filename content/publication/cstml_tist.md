@@ -1,5 +1,5 @@
 +++
-title = "Urban Traffic Dynamics Prediction---A Continuous Meta-Learning Approach."
+title = "Urban Traffic Dynamics Prediction---A Continuous Meta-Learning Approach"
 date = "2021-08-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
