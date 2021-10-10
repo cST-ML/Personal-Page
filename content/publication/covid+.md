@@ -18,7 +18,7 @@ authors = ["Han Bao", "Xun Zhou", "Yingxue Zhang", "Yanhua Li", "Yiqun Xie"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In ACM Transactions onIntelligent Systems and Technology (TIST)"
+publication = "In ACM Transactions on Intelligent Systems and Technology (TIST)"
 # publication_short = "ISBI"
 
 # Abstract and optional shortened version.
