@@ -1,5 +1,5 @@
 +++
-title = "$$C^3$$-GAN: Complex-Condition-Controlled Urban Traffic Estimation though Generative Adversarial Networks"
+title = "C3-GAN: Complex-Condition-Controlled Urban Traffic Estimation though Generative Adversarial Networks"
 date = "2021-08-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
