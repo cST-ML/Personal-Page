@@ -75,3 +75,15 @@ user_groups:
 ---
 
 Yingxue Zhang is a Ph.D. candidate in Data Science with strong machine learning and deep learning background. Broad research interests include: (1) designing novel data mining, machine learning and AI techniques to solve spatial-temporal big data analytics problems relatedto smart cities, public safety, sustainability and business, and (2) human behavior analysis in autonomous driving, financial market and decision making using meta-learning, reinforcement learning and imitation learning methods.
+
+<style>
+iframe {
+  height: 1000px; /* Set this to the height you want the iframe to have. */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+</style>
